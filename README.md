@@ -53,6 +53,6 @@ Backtesting consists of creating a trading strategy and going back in time simul
 <h2 style="text-align: center;"><span style="color: #333399;"><a style="color: #333399;" href="https://github.com/Jorgebt/AlgoTraiding/blob/master/Notebooks/Backtesting_only_test_data.ipynb">Backtesting_only_test_data.ipynb</a></span></h2>
 This notebook backtests the previously mentioned strategies only in the test data time range (2018-04-01 to 2018-12-30).
 <h2 style="text-align: center;"> Considerations</h2>
-Please find more information about further development of the current project in the file <strong><span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/Jorgebt/AlgoTraiding/blob/master/Consideration%20about%20the%20aplications.pdf">Limitations and Recommendations.pdf</a></span></strong>
+Please find more information about further development of the current project in the file <strong><span style="color: #0000ff;"><a style="color: #0000ff;" href="https://github.com/Jorgebt/AlgoTraiding/blob/master/Consideration%20about%20the%20aplications.pdf">Final Considerations about the applications.pdf</a></span></strong>
 <h2 style="text-align: center;">Authors</h2>
 Diego Giménez, Jorge Betancourt, Myungsung Kim, Piya Thavornwong, Xuan Lu, Yoon Hee Bae
